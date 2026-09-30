@@ -1,0 +1,8 @@
+node_modules/
+dist/
+portfolio-build/
+.vite-portfolio-cache/
+.env*
+!.env.example
+Thumbs.db
+Desktop.ini
